@@ -1,7 +1,5 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sebiweise_nextjs-calendlyframe&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sebiweise_nextjs-calendlyframe)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-calendlyframe&env=NEXT_PUBLIC_TITLE,NEXT_PUBLIC_DESCRIPTION,NEXT_PUBLIC_FAVICON,NEXT_PUBLIC_CALENDLY_USERNAME,NEXT_PUBLIC_CALENDLY_SHOW_DETAILS,NEXT_PUBLIC_CALENDLY_SHOW_COOKIES&project-name=calendlyframe&repo-name=calendlyframe)
-
 ## Getting Started
 
 First, run the development server:
@@ -31,4 +29,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_source=github.com&utm_medium=referral&utm_campaign=turborepo-readme) from the creators of Next.js.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-calendlyframe&env=NEXT_PUBLIC_TITLE,NEXT_PUBLIC_DESCRIPTION,NEXT_PUBLIC_FAVICON,NEXT_PUBLIC_CALENDLY_USERNAME,NEXT_PUBLIC_CALENDLY_SHOW_DETAILS,NEXT_PUBLIC_CALENDLY_SHOW_COOKIES&project-name=calendlyframe&repo-name=calendlyframe)
+
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Credits:
+<a href="https://www.buymeacoffee.com/sebiweise" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Us A Coffee" height="51px" width="217px" /></a>
