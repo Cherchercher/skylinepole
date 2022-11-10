@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-calendlyframe&env=NEXT_PUBLIC_TITLE,NEXT_PUBLIC_DESCRIPTION,NEXT_PUBLIC_FAVICON,NEXT_PUBLIC_CALENDLY_USERNAME,NEXT_PUBLIC_CALENDLY_SHOW_DETAILS,NEXT_PUBLIC_CALENDLY_SHOW_COOKIES&project-name=calendlyframe&repo-name=calendlyframe)
+
 ## Getting Started
 
 First, run the development server:
